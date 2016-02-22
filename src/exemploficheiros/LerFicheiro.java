@@ -13,7 +13,10 @@ import java.util.Scanner;
 public class LerFicheiro {
 
     ArrayList<Alumnos> lista = new ArrayList();
-
+/**
+ * Metodo que sirve para leer el fichero creado
+ * @param nomeFich 
+ */
     public void lerFich(String nomeFich) {
         //Creamos obxeto da clase File
 
@@ -35,7 +38,10 @@ public class LerFicheiro {
         }
 
     }
-
+/**
+ * 
+ * @param nomFich 
+ */
     public void lerDatoFich(String nomFich) {
         Scanner ler = null;
         try {
