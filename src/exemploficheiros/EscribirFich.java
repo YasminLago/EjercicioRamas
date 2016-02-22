@@ -26,6 +26,11 @@ public class EscribirFich {
             
         }
     }
- 
+ /**
+  * Metodo de prueba rama master
+  */
+    public void ramaMaster(){
+        System.out.println("Rama master");
+    }
     
 }
