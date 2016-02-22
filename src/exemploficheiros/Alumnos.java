@@ -31,7 +31,10 @@ public class Alumnos {
     public int getNota() {
         return nota;
     }
-
+/**
+ * Metodo sobreescrito
+ * @return 
+ */
     @Override
     public String toString() {
         return "Alumnos{" + "nome=" + nome + ", telefono=" + telefono + ", nota=" + nota + '}';
