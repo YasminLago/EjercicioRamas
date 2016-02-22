@@ -10,12 +10,7 @@ public class Alumnos {
 
     public Alumnos() {
     }
-/**
- * Datos del alumnos
- * @param nome
- * @param telefono
- * @param nota 
- */
+
     public Alumnos(String nome, String telefono, int nota) {
         this.nome = nome;
         this.telefono = telefono;
