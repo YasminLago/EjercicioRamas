@@ -16,7 +16,10 @@ public class Alumnos {
         this.telefono = telefono;
         this.nota = nota;
     }
-
+/**
+ * Metodos de acceso
+ * @return 
+ */
     public String getNome() {
         return nome;
     }
