@@ -26,4 +26,11 @@ public class EscribirFich {
             
         }
     }
+    /**
+     * Metodo de prueba para branches
+     */
+    public void metodoBranch(){
+        System.out.println("Rama master");
+    }
+    
 }
